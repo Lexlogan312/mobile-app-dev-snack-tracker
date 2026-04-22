@@ -1,0 +1,5 @@
+{
+  "name": "Snack Tracker",
+  "description": "A fun, cross-platform mobile app to track snack inventory for a school or organization. Built with React, Capacitor, and Firebase.",
+  "requestFramePermissions": ["camera"]
+}
